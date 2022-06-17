@@ -22,7 +22,8 @@
 
 ### how to use
 
-* Update User ,Password and database name in file project,create_table and test
+* Update User ,Password and database name in files
+ project,create_table and test
 * run in cmd ``` python create_table.py ```
 * run in cmd ``` python etl.py ``` 
 
