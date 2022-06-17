@@ -34,7 +34,7 @@
 
 
 ### Star Schema
-![certificate](https://github.com/Abdelrhman-Yassein/-ETL---Registered-Business-Locations---San-Francisco/blob/main/Registered%20Business%20Locations%20-%20Fact%20Model.jpg?raw=true)
+![Star Schema](https://github.com/Abdelrhman-Yassein/-ETL---Registered-Business-Locations---San-Francisco/blob/main/Registered%20Business%20Locations%20-%20Fact%20Model.jpg?raw=true)
 
 ## Contact
 
