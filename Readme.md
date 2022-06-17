@@ -34,8 +34,8 @@
 
 
 ### Star Schema
-![Star Schema]([Apache-Spark-with-Scala-Hands-On-with-Big-Data.jpg](https://github.com/Abdelrhman-Yassein/-ETL---Registered-Business-Locations---San-Francisco/blob/main/Registered%20Business%20Locations%20-%20Fact%20Model.jpg))
 
+![Star Schema]([https://github.com/Abdelrhman-Yassein/-Apache-Spark-with-Scala---Hands-On-with-Big-Data/blob/main/Apache-Spark-with-Scala-Hands-On-with-Big-Data.jpg](https://raw.githubusercontent.com/Abdelrhman-Yassein/-ETL---Registered-Business-Locations---San-Francisco/main/Registered%20Business%20Locations%20-%20Fact%20Model.jpg))
 
 ## Contact
 
